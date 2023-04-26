@@ -1,0 +1,15 @@
+Q.ルートブリッジに該当するスイッチの番号
+A. switch３
+
+Q.全てのポートの役割
+Switch1 F0/1=指定ポート
+Switch1 F0/2=ルートポート
+
+Switch2 F0/1=ルートポート
+Switch2 F0/2=指定ポート
+
+Switch3 E0/1=指定ポート
+Switch3 E0/2=指定ポート
+
+Switch4 E0/1=ブロッキングポート
+Switch4 E0/2=ルートポート
